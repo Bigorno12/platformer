@@ -1,0 +1,17 @@
+/gradle
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/8.10/dependencies-accessors/gc.properties
+/.gradle/8.10/fileHashes/fileHashes.lock
+/.gradle/8.10/executionHistory/executionHistory.lock
+/.gradle/vcs-1/gc.properties
+/.gradle/8.10/checksums/checksums.lock
+/.gradle/8.10/gc.properties
+/.gradle/8.10/fileChanges/last-build.bin
+/settings.gradle
+/.gradle/buildOutputCleanup/cache.properties
+/gradlew
+/.idea/*
+/gradle/wrapper/*
+/.gradle/8.10/fileHashes/fileHashes.bin
+/.gradle/buildOutputCleanup
+/gradle/wrapper
