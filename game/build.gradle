@@ -17,7 +17,7 @@ repositories {
 }
 
 ext {
-    log4jVersion = '2.24.3'
+    set("log4jVersion", "2.24.3")
 }
 
 dependencies {

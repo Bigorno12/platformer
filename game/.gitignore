@@ -13,3 +13,6 @@
 /.gradle/8.10/fileHashes/fileHashes.bin
 /.gradle/buildOutputCleanup
 /gradlew.bat
+/build/*
+/.gradle/*
+
